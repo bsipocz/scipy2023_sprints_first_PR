@@ -1,5 +1,5 @@
-Ok so I guess you are reading this cuz you wanna use my code. There are some
-functions that do stuf and thats:
+Ok so I guess you are reading this because you would like to use this code. There are some
+functions that do things:
 
     >>> from simple_functions import factorial
     >>> factorial(10)
