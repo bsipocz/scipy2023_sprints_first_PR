@@ -70,7 +70,7 @@ Be sure to replace ``<username>`` with your GitHub username in both cases!
 
 Once the repository has been cloned, ``cd`` into it and check what files are available:
 
-    cd contributing_to_open_source
+    cd scipy2023_sprints_first_PR
     ls
 
 Under ``participants`` you should see a set of directories, with one directory per participant. There are also issues opened for each directory name,
